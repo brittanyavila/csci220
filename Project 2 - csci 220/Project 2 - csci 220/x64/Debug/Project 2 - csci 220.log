@@ -1,0 +1,9 @@
+﻿  Project 2 - csci 220.cpp
+C:\csci 220\Project 2 - csci 220\Project 2 - csci 220\Project 2 - csci 220.cpp(109,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\csci 220\Project 2 - csci 220\Project 2 - csci 220\Project 2 - csci 220.cpp(141,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\csci 220\Project 2 - csci 220\Project 2 - csci 220\Project 2 - csci 220.cpp(150,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\csci 220\Project 2 - csci 220\Project 2 - csci 220\Project 2 - csci 220.cpp(159,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\csci 220\Project 2 - csci 220\Project 2 - csci 220\Project 2 - csci 220.cpp(166,4): warning C4552: '*': result of expression not used
+C:\csci 220\Project 2 - csci 220\Project 2 - csci 220\Project 2 - csci 220.cpp(192,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\csci 220\Project 2 - csci 220\Project 2 - csci 220\Project 2 - csci 220.cpp(223,18): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Project 2 - csci 220.vcxproj -> C:\csci 220\Project 2 - csci 220\x64\Debug\Project 2 - csci 220.exe

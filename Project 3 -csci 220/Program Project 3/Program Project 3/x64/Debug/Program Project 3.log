@@ -1,0 +1,6 @@
+﻿  Program Project 3.cpp
+C:\Users\Brittany Avila\Desktop\cs 22-23\csci 220\Project 3 -csci 220\Program Project 3\Program Project 3\Program Project 3.cpp(114,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Brittany Avila\Desktop\cs 22-23\csci 220\Project 3 -csci 220\Program Project 3\Program Project 3\Program Project 3.cpp(122,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Brittany Avila\Desktop\cs 22-23\csci 220\Project 3 -csci 220\Program Project 3\Program Project 3\Program Project 3.cpp(185,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Brittany Avila\Desktop\cs 22-23\csci 220\Project 3 -csci 220\Program Project 3\Program Project 3\Program Project 3.cpp(216,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Program Project 3.vcxproj -> C:\Users\Brittany Avila\Desktop\cs 22-23\csci 220\Project 3 -csci 220\Program Project 3\x64\Debug\Program Project 3.exe
